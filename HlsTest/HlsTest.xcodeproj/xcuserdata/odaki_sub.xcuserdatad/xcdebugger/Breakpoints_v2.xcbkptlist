@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "15472DF2-D42D-43CB-AF02-87F049C9EAD6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E38DEE7-BC93-4814-B803-8C42C23AA1FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HlsTest/VideoPlayerModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "downloadAndPlayAsset()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1E38DEE7-BC93-4814-B803-8C42C23AA1FC - 406703b281a0fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HlsTest.VideoPlayerModel.downloadAndPlayAsset() -&gt; ()"
+                  moduleName = "HlsTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/odaki_sub/Desktop/repository/HlsTest/HlsTest/HlsTest/VideoPlayerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "1E38DEE7-BC93-4814-B803-8C42C23AA1FC - 406703b281a0fad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HlsTest.VideoPlayerModel.downloadAndPlayAsset() -&gt; ()"
+                  moduleName = "HlsTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/odaki_sub/Desktop/repository/HlsTest/HlsTest/HlsTest/VideoPlayerModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
